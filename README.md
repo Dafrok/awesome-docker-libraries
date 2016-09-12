@@ -2,151 +2,151 @@
 
 ## [nginx](https://hub.docker.com/_/nginx/)
 
-Official build of Nginx.
+Nginx 官方版本。
 
 ## [busybox](https://hub.docker.com/_/busybox/)
 
-Busybox base image.
+Busybox 基础镜像。
 
 ## [redis](https://hub.docker.com/_/redis/)
 
-Redis is an open source key-value store that functions as a data structure server.
+Redis 是一款开源的，用于数据结构服务器的 key-value 存储。
 
 ## [ubuntu](https://hub.docker.com/_/ubuntu/)
 
-Ubuntu is a Debian-based Linux operating system based on free software.
+Ubuntu 是一款基于 Debian 的免费 Linux 操作系统。
 
 ## [registry](https://hub.docker.com/_/registry/)
 
-Containerized docker registry
+容器化 docker 包
 
 ## [swarm](https://hub.docker.com/_/swarm/)
 
-Swarm: a Docker-native clustering system.
+Swarm: 一个 Docker 原生集群系统。
 
 ## [mongo](https://hub.docker.com/_/mongo/)
 
-MongoDB document databases provide high availability and easy scalability.
+MongoDB 文档数据库提供高可用性和可扩充性。
 
 ## [mysql](https://hub.docker.com/_/mysql/)
 
-MySQL is a widely used, open-source relational database management system (RDBMS).
+MySQL 是一种广泛使用的开源关系数据库管理系统（RDBMS）。
 
 ## [alpine](https://hub.docker.com/_/alpine/)
 
-A minimal Docker image based on Alpine Linux with a complete package index and only 5 MB in size!
+一个极小的拥有完整的包索引的基于 Alpine Linux 的 Docker 镜像，容量仅有 5MB ！ 
 
 ## [node](https://hub.docker.com/_/node/)
 
-Node.js is a JavaScript-based platform for server-side and networking applications.
+Node.js 是一个基于 JavaScript 的服务端和网络应用平台。
 
 ## [postgres](https://hub.docker.com/_/postgres/)
 
-The PostgreSQL object-relational database system provides reliability and data integrity.
+PostgreSQL 对象关系型数据库系统提供可靠性和数据完整性。
 
 ## [elasticsearch](https://hub.docker.com/_/elasticsearch/)
 
-Elasticsearch is a powerful open source search and analytics engine that makes data easy to explore.
+Elasticsearch 是一个功能强大的开源搜索和分析引擎，使数据方便地探索。
 
 ## [hello-world](https://hub.docker.com/_/hello-world/)
 
-Hello World! (an example of minimal Dockerization)
+Hello World!（容量极小的Docker示例）
 
 ## [httpd](https://hub.docker.com/_/httpd/)
 
-The Apache HTTP Server Project
+Apache HTTP 服务器项目
 
 ## [wordpress](https://hub.docker.com/_/wordpress/)
 
-The WordPress rich content management system can utilize plugins, widgets, and themes.
+WordPress 富内容管理系统能够使用插件、组件和主题。
 
 ## [debian](https://hub.docker.com/_/debian/)
 
-Debian is a Linux distribution that's composed entirely of free and open-source software.
+Debian 是一个完全免费和开源的 Linux 发行版。
 
 ## [logstash](https://hub.docker.com/_/logstash/)
 
-Logstash is a tool for managing events and logs.
+Logstash 是一个管理事件和日志的工具。
 
 ## [centos](https://hub.docker.com/_/centos/)
 
-The official build of CentOS.
+CentOS 的官方版本。
 
 ## [java](https://hub.docker.com/_/java/)
 
-Java is a concurrent, class-based, and object-oriented programming language.
+Java 是一门并发的，基于类，面向对象的编程语言。
 
 ## [jenkins](https://hub.docker.com/_/jenkins/)
 
-Official Jenkins Docker image
+Jenkins 官方 Docker 镜像
 
 ## [python](https://hub.docker.com/_/python/)
 
-Python is an interpreted, interactive, object-oriented, open-source programming language.
+Python 是一种解释性的，交互式的，面向对象的，开源编程语言。
 
 ## [rabbitmq](https://hub.docker.com/_/rabbitmq/)
 
-RabbitMQ is a highly reliable enterprise messaging system based on the emerging AMQP standard
+RabbitMQ 的是一种基于 AMQP 的新兴标准的一个高度可靠的企业消息传递系统
 
 ## [kibana](https://hub.docker.com/_/kibana/)
 
-Kibana gives shape to any kind of data — structured and unstructured — indexed in Elasticsearch.
+Kibana 在 Elasticsearch 索引提供结构和非结构化的任何形状的数据。
 
 ## [ruby](https://hub.docker.com/_/ruby/)
 
-Ruby is a dynamic, reflective, object-oriented, general-purpose, open-source programming language.
+Ruby 是一种动态，反射式，面向对象的，通用的，开放源码的编程语言。
 
 ## [php](https://hub.docker.com/_/php/)
 
-While designed for web development, the PHP scripting language also provides general-purpose use.
+为 Web 设计的同时， PHP 脚本语言也提供了一般用途。
 
 ## [haproxy](https://hub.docker.com/_/haproxy/)
 
-HAProxy - The Reliable, High Performance TCP/HTTP Load Balancer
+HAProxy的 - 可靠的，高性能的 TCP / HTTP 负载平衡器。
 
 ## [golang](https://hub.docker.com/_/golang/)
 
-Go (golang) is a general purpose, higher-level, imperative programming language.
+Go（ golang ）是一个通用的，命令式编程高级语言。
 
 ## [tomcat](https://hub.docker.com/_/tomcat/)
 
-Apache Tomcat is an open source implementation of the Java Servlet and JavaServer Pages technologies
+Apache Tomcat 是对的 Java Servlet 和 JavaServer Pages 技术的一个开源实现
 
 ## [memcached](https://hub.docker.com/_/memcached/)
 
-Free & open source, high-performance, distributed memory object caching system.
+免费和开源的，高性能的，分布式的内存对象缓存系统。
 
 ## [fedora](https://hub.docker.com/_/fedora/)
 
-Official Docker builds of Fedora
+Fedora 官方 Docker 版本
 
 ## [mariadb](https://hub.docker.com/_/mariadb/)
 
-MariaDB is a community-developed fork of MySQL intended to remain free under the GNU GPL.
+MariaDB 是 MySQL 基于 GNU 和 GPL 协议的免费社区版本。
 
 ## [docker](https://hub.docker.com/_/docker/)
 
-Docker in Docker!
+Docker 中的 Docker!
 
 ## [consul](https://hub.docker.com/_/consul/)
 
-Consul is a datacenter runtime that provides service discovery, configuration, and orchestration.
+Consul 是一个提供了服务发现，配置和编排的数据中心运行时。
 
 ## [rethinkdb](https://hub.docker.com/_/rethinkdb/)
 
-RethinkDB is an open-source, document database that makes it easy to build and scale realtime apps.
+RethinkDB 是一个开源的文档数据库，它可以很容易地做出极佳的实时应用。
 
 ## [perl](https://hub.docker.com/_/perl/)
 
-Perl is a high-level, general-purpose, interpreted, dynamic programming language.
+Perl 是一个通用的，解释型动态高级编程语言。
 
 ## [cassandra](https://hub.docker.com/_/cassandra/)
 
-Apache Cassandra is an open-source distributed storage system.
+阿帕奇 Cassandra 是一个开源的分布式存储系统。
 
 ## [maven](https://hub.docker.com/_/maven/)
 
-Apache Maven is a software project management and comprehension tool.
+阿帕奇Maven是一个软件项目管理综合工具。
 
 ## [ubuntu-debootstrap](https://hub.docker.com/_/ubuntu-debootstrap/)
 
@@ -154,320 +154,321 @@ debootstrap --variant=minbase --components=main,universe --include=inetutils-pin
 
 ## [ghost](https://hub.docker.com/_/ghost/)
 
-Ghost is a free and open source blogging platform written in JavaScript
+Ghost 是用 JavaScript 编写的免费开源博客平台
 
 ## [nats](https://hub.docker.com/_/nats/)
 
-NATS is an open-source, high-performance, cloud native messaging system.
+NATS 是一个开源的，高性能的云本地邮件系统。
 
 ## [oraclelinux](https://hub.docker.com/_/oraclelinux/)
 
-Oracle Linux is an open-source operating system suitable for general purpose or Oracle workloads.
+Oracle Linux 是适用于普通的或 Oracle 工作的开源操作系统。
 
 ## [rails](https://hub.docker.com/_/rails/)
 
-Rails is an open-source web application framework written in Ruby.
+Rails 是一款基于Ruby开发的开源 web 应用框架。
 
 ## [neo4j](https://hub.docker.com/_/neo4j/)
 
-Neo4j is a highly scalable, robust native graph database.
+Neo4j 的是一个高度可扩展的强大原生图形数据库。
 
 ## [iojs](https://hub.docker.com/_/iojs/)
 
-io.js is an npm compatible platform originally based on node.js
+io.js 是出身于 node.js 的一个 NPM 兼容的平台
 
 ## [owncloud](https://hub.docker.com/_/owncloud/)
 
-ownCloud is a self-hosted file sync and share server.
+ownCloud 是自托管的文件同步和共享服务器。
 
 ## [django](https://hub.docker.com/_/django/)
 
-Django is a free web application framework, written in Python.
+Django 是一款基于 Python 的免费的 web 应用框架。
 
 ## [sentry](https://hub.docker.com/_/sentry/)
 
-Sentry is a realtime, platform-agnostic error logging and aggregation platform
+Sentry 是一个实时的，平台未知错误日志记录和聚合平台
 
 ## [notary](https://hub.docker.com/_/notary/)
 
-Notary server and signer cooperatively handle signing and distribution of notary repositories.
+Notary 服务器和签名者共同处理签名和分布式Notary 仓库。
 
 ## [jruby](https://hub.docker.com/_/jruby/)
 
-JRuby (http://www.jruby.org) is an implementation of Ruby (http://www.ruby-lang.org) on the JVM.
+JRuby (http://www.jruby.org) 是 Ruby (http://www.ruby-lang.org) 在 JVM 上的实现。
 
 ## [buildpack-deps](https://hub.docker.com/_/buildpack-deps/)
 
-A collection of common build dependencies used for installing various modules, e.g., gems.
+构建依赖关系的集合，用于安装各种模块， 如 gems。
 
 ## [telegraf](https://hub.docker.com/_/telegraf/)
 
-Telegraf is an agent for collecting metrics and writing them to InfluxDB or other outputs.
+Telegraf 是用于收集指标并将它们写入 InfluxDB 或其他输出的代理。
 
 ## [rocket.chat](https://hub.docker.com/_/rocket.chat/)
 
-The Complete Open Source Chat Solution
+完整的开源聊天解决方案
 
 ## [pypy](https://hub.docker.com/_/pypy/)
 
-PyPy is a fast, compliant alternative implementation of the Python language.
+PyPy 是一个快速的，兼容替代实现 Python 语言的实现。
 
 ## [odoo](https://hub.docker.com/_/odoo/)
 
-Odoo (formerly known as OpenERP) is a suite of open-source business apps.
+Odoo （原名 OpenERP ）是一款开源的商业应用程序套件。
 
 ## [sonarqube](https://hub.docker.com/_/sonarqube/)
 
-SonarQube is an open source platform for continuous inspection of code quality.
+SonarQube 是一款代码质量的检查开源的平台。
 
 ## [jetty](https://hub.docker.com/_/jetty/)
 
-Jetty provides a Web server and javax.servlet container.
+Jetty 提供 Web 服务器和 javax.servlet 的容器。
 
 ## [couchbase](https://hub.docker.com/_/couchbase/)
 
-Couchbase Server is a NoSQL document database with a distributed architecture.
+Couchbase 服务器是一个分布式NoSQL文档数据库。
 
 ## [drupal](https://hub.docker.com/_/drupal/)
 
-Drupal is an open source content management platform powering millions of websites and applications.
+Drupal 是一个开源内容管理平台，为数以百万计的网站和应用程序提供了强力的支持。
 
 ## [mono](https://hub.docker.com/_/mono/)
 
-Mono is an open source implementation of Microsoft's .NET Framework
+Mono 是开源的微软 .NET Framework 实现。
 
 ## [joomla](https://hub.docker.com/_/joomla/)
 
-Joomla! is an open source content management system.
+Joomla! 是一个开源的内容管理系统。
 
 ## [redmine](https://hub.docker.com/_/redmine/)
 
-Redmine is a flexible project management web application written using Ruby on Rails framework
+Redmine是一个基于 Ruby on Rails 框架开发的灵活的项目管理系统。
 
 ## [percona](https://hub.docker.com/_/percona/)
 
-Percona Server is a fork of the MySQL relational database management system created by Percona.
+Percona Server 是由 Percona 创建的基于 MySQL 的关系型数据库管理系统。
 
 ## [traefik](https://hub.docker.com/_/traefik/)
 
-Træfɪk, a modern reverse proxy
+Træfɪk，一个现代化的反向代理
 
 ## [crate](https://hub.docker.com/_/crate/)
 
-Crate is an open source, highly scalable, shared-nothing distributed SQL database.
+Crate 是一个开源的，高度可扩展，无共享的分布式SQL数据库。
 
 ## [gcc](https://hub.docker.com/_/gcc/)
 
-The GNU Compiler Collection is a compiling system that supports several languages.
+GNU 编译器集是支持多种语言的编译系统。
 
 ## [websphere-liberty](https://hub.docker.com/_/websphere-liberty/)
 
-Official IBM WebSphere Application Server for Developers Liberty image.
+IBM 官方 WebSphere 应用服务器开发者镜像。
 
 ## [arangodb](https://hub.docker.com/_/arangodb/)
 
-ArangoDB - a distributed database with a flexible data model for documents, graphs, and key-values.
+ArangoDB - 拥有文档、图形、键值对数据模型的灵活的分布式数据库。
 
 ## [glassfish](https://hub.docker.com/_/glassfish/)
 
-GlassFish is the reference implementation of Java EE
+GlassFish 是 Java EE 的参考实现
 
 ## [neurodebian](https://hub.docker.com/_/neurodebian/)
 
-NeuroDebian provides neuroscience research software for Debian, Ubuntu, and other derivatives.
+NeuroDebian 为 Debian、 Ubuntu 及其它衍生工具提供神经科学研究软件。
 
 ## [solr](https://hub.docker.com/_/solr/)
 
-Solr is the popular, blazing-fast, open source enterprise search platform built on Apache Lucene™.
+Solr 是内置于 Apache Lucene的™ 的高速开源的企业级搜索平台。
 
 ## [tomee](https://hub.docker.com/_/tomee/)
 
-Apache TomEE is an all-Apache Java EE certified stack where Apache Tomcat is top dog.
+Apache TomEE 是一个全功能的 Apache 的 Java EE 认证的堆栈，其中 Apache Tomcat 是主要组成部分。
 
 ## [erlang](https://hub.docker.com/_/erlang/)
 
-Erlang is a programming language used to build massively scalable systems with high availability.
+Erlang 是用于构建具有高可用性的大规模可扩展系统的编程语言。
 
 ## [docker-dev](https://hub.docker.com/_/docker-dev/)
 
-Docker is an open source project to pack, ship and run any application as a lightweight container
+Docker 是一个开源的项目包，用于启动运行任何应用的轻量级容器。
 
 ## [aerospike](https://hub.docker.com/_/aerospike/)
 
-Aerospike – the reliable, high performance, distributed database optimized for flash and RAM.
+Aerospike – 用于优化闪存和 RAM 的高可靠性，高性能，分布式数据库。
 
 ## [hylang](https://hub.docker.com/_/hylang/)
 
-Hy is a Lisp dialect that translates expressions into Python's abstract syntax tree.
+HY 是一种 Lisp 方言翻译成表达 Python 的抽象语法树。
 
 ## [irssi](https://hub.docker.com/_/irssi/)
 
-irssi - The IRC client of the future
+irssi - 未来的 IRC 客户端
 
 ## [opensuse](https://hub.docker.com/_/opensuse/)
 
-This project contains the stable releases of the openSUSE distribution.
+这个项目包含了openSUSE发行版的稳定版本。
 
 ## [clojure](https://hub.docker.com/_/clojure/)
 
-Clojure is a dialect of Lisp that runs on the JVM.
+Clojure 是在 JVM 上运行的 Lisp 方言。
 
 ## [scratch](https://hub.docker.com/_/scratch/)
 
-an explicitly empty image, especially for building images "FROM scratch"
+完全空的镜像，特别用于用于构建新镜像。
 
 ## [ros](https://hub.docker.com/_/ros/)
 
-The Robot Operating System (ROS) is an open source project for building robot applications.
+机器人操作系统（ROS）是一种用于构建机器人应用的一个开源项目。
 
 ## [celery](https://hub.docker.com/_/celery/)
 
-Celery is an open source asynchronous task queue/job queue based on distributed message passing.
+Celery 是一个开源的基于分布式消息传递的异步任务 / 作业队列。
 
 ## [ubuntu-upstart](https://hub.docker.com/_/ubuntu-upstart/)
 
-Upstart is an event-based replacement for the /sbin/init daemon which starts processes at boot
+Upstart 是一个基于事件的，用于代替老的 /sbin/init 引导时启动的进程。
 
 ## [haskell](https://hub.docker.com/_/haskell/)
 
-Haskell is an advanced purely-functional programming language.
+Haskell 是一种先进的函数式编程语言。
 
 ## [php-zendserver](https://hub.docker.com/_/php-zendserver/)
 
-Zend Server - the integrated PHP application platform for mobile and web apps.
+Zend Server - 集成的 PHP 移动端 Web 应用程序平台。
 
 ## [cirros](https://hub.docker.com/_/cirros/)
 
-CirrOS is a Tiny OS that specializes in running on a cloud.
+CirrOS 是一个容量很小的在云端运行的操作系统。
 
 ## [julia](https://hub.docker.com/_/julia/)
 
-Julia is a high-level, high-performance dynamic programming language for technical computing.
+Julia 一种高性能的动态编程高级语言。
 
 ## [influxdb](https://hub.docker.com/_/influxdb/)
 
-InfluxDB is an open source time series database for recording metrics, events, and analytics.
+InfluxDB 是一个开源的时间序列数据库，用来记录指标、事件和分析。
 
 ## [r-base](https://hub.docker.com/_/r-base/)
 
-R is a system for statistical computation and graphics.
+R 是用于统计计算和图形的系统。
 
 ## [gazebo](https://hub.docker.com/_/gazebo/)
 
-Gazebo is an open source project for simulating robots, offering robust physics and rendering.
+Gazebo 是一个开源的模拟机器人，并提供强大的物理效果和渲染的项目。
 
 ## [mongo-express](https://hub.docker.com/_/mongo-express/)
 
-Web-based MongoDB admin interface, written with Node.js and express
+使用 Node.js + express 开发，基于 Web 的 MongoDB 管理界面。
 
 ## [nuxeo](https://hub.docker.com/_/nuxeo/)
 
-Nuxeo is an open source Content Management Platform that is completely customizable.
+Nuxeo 是一个完全定制化的开源的内容管理平台。
 
 ## [couchdb](https://hub.docker.com/_/couchdb/)
 
-CouchDB is a database that uses JSON for documents, JavaScript for MapReduce and HTTP for its API.
+CouchDB 一个使用 JSON 做文档、JavaScript 做 MapReduce，HTTP 做 API 的数据库。
 
 ## [rakudo-star](https://hub.docker.com/_/rakudo-star/)
 
-Rakudo Perl 6, or simply Rakudo, is a compiler for the Perl 6 programming language.
+Rakudo Perl 6 或单纯的 Rakudo 是一个 Perl 6 的编译器。
 
 ## [elixir](https://hub.docker.com/_/elixir/)
 
-Elixir is a dynamic, functional language for building scalable and maintainable applications.
+Elixir 是构建可扩展性和维护的应用程序的动态的函数式语言。
 
 ## [hipache](https://hub.docker.com/_/hipache/)
 
-Hipache is a distributed proxy for high volumes of http/websocket traffic to large numbers of hosts
+Hipache 是大流量的 http / websocket 代理。
 
 ## [thrift](https://hub.docker.com/_/thrift/)
 
-Thrift is a framework for generating client and services from an IDL.
+Thrift 是从 IDL 生成客户端和服务的框架。
 
 ## [backdrop](https://hub.docker.com/_/backdrop/)
 
-The comprehensive CMS for small to medium sized businesses and non-profits.
+适合中小型企业的免费内容管理系统。
 
 ## [mageia](https://hub.docker.com/_/mageia/)
 
-Official Mageia base image
+官方 Mageia 基础镜像
 
 ## [bonita](https://hub.docker.com/_/bonita/)
 
-Bonita BPM is an open-source business process management and workflow suite
+Bonita BPM 是开源的务流程管理和工作流套件
 
 ## [crux](https://hub.docker.com/_/crux/)
 
-CRUX is a lightweight Linux distribution targeted at experienced Linux users
+CRUX 是一个轻量级的 Linux 发行版，定位于经验的 Linux 用户。
 
 ## [orientdb](https://hub.docker.com/_/orientdb/)
 
-OrientDB a Multi-Model Open Source NoSQL DBMS that combines graphs and documents.
+OrientDB 是一个多模型开源 NoSQL数据库，结合了图标和文档。
 
 ## [vault](https://hub.docker.com/_/vault/)
 
-Vault is a tool for securely accessing secrets via a unified interface and tight access control.
+Vault 是一个通过统一的接口和严格的访问控制进行安全地访问的工具。
 
 ## [kapacitor](https://hub.docker.com/_/kapacitor/)
 
-Kapacitor is an open source framework for processing, monitoring, and alerting on time series data.
+Kapacitor 是基于时间序列处理、监控和报警的开源框架。
 
 ## [piwik](https://hub.docker.com/_/piwik/)
 
-Piwik is the leading open-source analytics platform that gives you more than powerful analytics.
+是领先的开放源码分析平台，为您提供了更强大的分析。
 
 ## [openjdk](https://hub.docker.com/_/openjdk/)
 
-OpenJDK is an open-source implementation of the Java Platform, Standard Edition
+OpenJDK 是 Java 平台标准版的开源实现
 
 ## [photon](https://hub.docker.com/_/photon/)
 
-Photon OS is a technology preview of a minimal Linux container host.
+Photon OS 是一个笑容量的 Linux 容器主机的技术预览。
 
 ## [kaazing-gateway](https://hub.docker.com/_/kaazing-gateway/)
 
-Official build of Kaazing Gateway.
+Kaazing Gateway 官方版本。
 
 ## [lightstreamer](https://hub.docker.com/_/lightstreamer/)
 
-Lightstreamer is a real-time messaging server optimized for the Internet.
+Lightstreamer 是互联网优化的实时消息服务器。
 
 ## [chronograf](https://hub.docker.com/_/chronograf/)
 
-Chronograf is a visualization tool for time series data in InfluxDB.
+Chronograf 是用于 InfluxDB 时间序列数据的可视化工具。
 
 ## [sourcemage](https://hub.docker.com/_/sourcemage/)
 
-Source Mage is a source-based GNU/Linux distribution with maximum flexibility in customization.
+Source Mage 是一个高度灵活的 GNU / Linux 发行版源码。
 
 ## [spiped](https://hub.docker.com/_/spiped/)
 
-Spiped is a utility for creating symmetrically encrypted and authenticated pipes between sockets.
+Spiped 是 socket 之间创建对称加密和认证管道的工具。
 
 ## [ibmjava](https://hub.docker.com/_/ibmjava/)
 
-Official IBM® SDK, Java™ Technology Edition Docker Image.
+官方的 IBM® SDK, Java™ 技术版 Docker 镜像.
 
 ## [eggdrop](https://hub.docker.com/_/eggdrop/)
 
-The official Docker image of Eggdrop- IRC's oldest actively-developed bot!
+Eggdrop- IRC中最古老的活跃的机器人开发官方 Docker 镜像！
 
 ## [fsharp](https://hub.docker.com/_/fsharp/)
 
-F# is a multi-paradigm language encompassing functional, imperative, and object-oriented styles
+F# 是一种多范式的拥有面向对象风格的函数式语言。
 
 ## [clearlinux](https://hub.docker.com/_/clearlinux/)
 
-Official docker build of Clear Linux OS for Intel Architecture
+官方 Clear Linux OS for Intel Architecture 的 docker 镜像
 
 ## [hello-seattle](https://hub.docker.com/_/hello-seattle/)
 
-Hello from DockerCon 2016 (Seattle)!
+来自2016年西雅图 Docker 会议的问候！
 
 ## [hola-mundo](https://hub.docker.com/_/hola-mundo/)
 
-¡Hola de DockerCon EU 2015 (Barcelona)!
+来自2015年巴塞罗那 Docker 欧洲会议的问候！
 
 ## [kong](https://hub.docker.com/_/kong/)
 
-Open-source Microservice & API Management layer built on top of NGINX.
+建立在 NGINX 上的开源微服务和 API 管理层。
+
