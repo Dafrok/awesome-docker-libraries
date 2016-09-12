@@ -1,0 +1,477 @@
+[
+  {
+    "name": "nginx",
+    "zh-cn": "Nginx 官方版本。"
+  },
+  {
+    "name": "busybox",
+    "zh-cn": "Busybox 基础镜像。"
+  },
+  {
+    "name": "redis",
+    "zh-cn": "Redis 是一款开源的，用于数据结构服务器的 key-value 存储。"
+  },
+  {
+    "name": "ubuntu",
+    "zh-cn": "Ubuntu 是一款基于 Debian 的免费 Linux 操作系统。"
+  },
+  {
+    "name": "registry",
+    "zh-cn": "容器化 docker 包"
+  },
+  {
+    "name": "swarm",
+    "zh-cn": "Swarm: 一个 Docker 原生集群系统。"
+  },
+  {
+    "name": "mongo",
+    "zh-cn": "MongoDB 文档数据库提供高可用性和可扩充性。"
+  },
+  {
+    "name": "mysql",
+    "zh-cn": "MySQL 是一种广泛使用的开源关系数据库管理系统（RDBMS）。"
+  },
+  {
+    "name": "alpine",
+    "zh-cn": "一个极小的拥有完整的包索引的基于 Alpine Linux 的 Docker 镜像，容量仅有 5MB ！ "
+  },
+  {
+    "name": "node",
+    "zh-cn": "Node.js 是一个基于 JavaScript 的服务端和网络应用平台。"
+  },
+  {
+    "name": "postgres",
+    "zh-cn": "PostgreSQL 对象关系型数据库系统提供可靠性和数据完整性。"
+  },
+  {
+    "name": "elasticsearch",
+    "zh-cn": "Elasticsearch 是一个功能强大的开源搜索和分析引擎，使数据方便地探索。"
+  },
+  {
+    "name": "hello-world",
+    "zh-cn": "Hello World!（容量极小的Docker示例）"
+  },
+  {
+    "name": "httpd",
+    "zh-cn": "Apache HTTP 服务器项目"
+  },
+  {
+    "name": "wordpress",
+    "zh-cn": "WordPress 富内容管理系统能够使用插件、组件和主题。"
+  },
+  {
+    "name": "debian",
+    "zh-cn": "Debian 是一个完全免费和开源的 Linux 发行版。"
+  },
+  {
+    "name": "logstash",
+    "zh-cn": "Logstash 是一个管理事件和日志的工具。"
+  },
+  {
+    "name": "centos",
+    "zh-cn": "CentOS 的官方版本。"
+  },
+  {
+    "name": "java",
+    "zh-cn": "Java 是一门并发的，基于类，面向对象的编程语言。"
+  },
+  {
+    "name": "jenkins",
+    "zh-cn": "Jenkins 官方 Docker 镜像"
+  },
+  {
+    "name": "python",
+    "zh-cn": "Python 是一种解释性的，交互式的，面向对象的，开源编程语言。"
+  },
+  {
+    "name": "rabbitmq",
+    "zh-cn": "RabbitMQ 的是一种基于 AMQP 的新兴标准的一个高度可靠的企业消息传递系统"
+  },
+  {
+    "name": "kibana",
+    "zh-cn": "Kibana 在 Elasticsearch 索引提供结构和非结构化的任何形状的数据。"
+  },
+  {
+    "name": "ruby",
+    "zh-cn": "Ruby 是一种动态，反射式，面向对象的，通用的，开放源码的编程语言。"
+  },
+  {
+    "name": "php",
+    "zh-cn": "为 Web 设计的同时， PHP 脚本语言也提供了一般用途。"
+  },
+  {
+    "name": "haproxy",
+    "link": "/_/haproxy/",
+    "zh-cn": "HAProxy的 - 可靠的，高性能的 TCP / HTTP 负载平衡器。"
+  },
+  {
+    "name": "golang",
+    "zh-cn": "Go（ golang ）是一个通用的，命令式编程高级语言。"
+  },
+  {
+    "name": "tomcat",
+    "zh-cn": "Apache Tomcat 是对的 Java Servlet 和 JavaServer Pages 技术的一个开源实现"
+  },
+  {
+    "name": "memcached",
+    "zh-cn": "免费和开源的，高性能的，分布式的内存对象缓存系统。"
+  },
+  {
+    "name": "fedora",
+    "zh-cn": "Fedora 官方 Docker 版本"
+  },
+  {
+    "name": "mariadb",
+    "zh-cn": "MariaDB 是 MySQL 基于 GNU 和 GPL 协议的免费社区版本。"
+  },
+  {
+    "name": "docker",
+    "zh-cn": "Docker 中的 Docker!"
+  },
+  {
+    "name": "consul",
+    "zh-cn": "Consul 是一个提供了服务发现，配置和编排的数据中心运行时。"
+  },
+  {
+    "name": "rethinkdb",
+    "zh-cn": "RethinkDB 是一个开源的文档数据库，它可以很容易地做出极佳的实时应用。"
+  },
+  {
+    "name": "perl",
+    "zh-cn": "Perl 是一个通用的，解释型动态高级编程语言。"
+  },
+  {
+    "name": "cassandra",
+    "zh-cn": "阿帕奇 Cassandra 是一个开源的分布式存储系统。"
+  },
+  {
+    "name": "maven",
+    "zh-cn": "阿帕奇Maven是一个软件项目管理综合工具。"
+  },
+  {
+    "name": "ubuntu-debootstrap",
+    "zh-cn": "debootstrap --variant=minbase --components=main,universe --include=inetutils-ping,iproute2 <suite> /"
+  },
+  {
+    "name": "ghost",
+    "zh-cn": "Ghost 是用 JavaScript 编写的免费开源博客平台"
+  },
+  {
+    "name": "nats",
+    "zh-cn": "NATS 是一个开源的，高性能的云本地邮件系统。"
+  },
+  {
+    "name": "oraclelinux",
+    "zh-cn": "Oracle Linux 是适用于普通的或 Oracle 工作的开源操作系统。"
+  },
+  {
+    "name": "rails",
+    "zh-cn": "Rails 是一款基于Ruby开发的开源 web 应用框架。"
+  },
+  {
+    "name": "neo4j",
+    "zh-cn": "Neo4j 的是一个高度可扩展的强大原生图形数据库。"
+  },
+  {
+    "name": "iojs",
+    "link": "/_/iojs/",
+    "zh-cn": "io.js 是出身于 node.js 的一个 NPM 兼容的平台"
+  },
+  {
+    "name": "owncloud",
+    "zh-cn": "ownCloud 是自托管的文件同步和共享服务器。"
+  },
+  {
+    "name": "django",
+    "link": "/_/django/",
+    "zh-cn": "Django 是一款基于 Python 的免费的 web 应用框架。"
+  },
+  {
+    "name": "sentry",
+    "zh-cn": "Sentry 是一个实时的，平台未知错误日志记录和聚合平台"
+  },
+  {
+    "name": "notary",
+    "zh-cn": "Notary 服务器和签名者共同处理签名和分布式Notary 仓库。"
+  },
+  {
+    "name": "jruby",
+    "zh-cn": "JRuby (http://www.jruby.org) 是 Ruby (http://www.ruby-lang.org) 在 JVM 上的实现。"
+  },
+  {
+    "name": "buildpack-deps",
+    "zh-cn": "构建依赖关系的集合，用于安装各种模块， 如 gems。"
+  },
+  {
+    "name": "telegraf",
+    "zh-cn": "Telegraf 是用于收集指标并将它们写入 InfluxDB 或其他输出的代理。"
+  },
+  {
+    "name": "rocket.chat",
+    "zh-cn": "完整的开源聊天解决方案"
+  },
+  {
+    "name": "pypy",
+    "zh-cn": "PyPy 是一个快速的，兼容替代实现 Python 语言的实现。"
+  },
+  {
+    "name": "odoo",
+    "zh-cn": "Odoo （原名 OpenERP ）是一款开源的商业应用程序套件。"
+  },
+  {
+    "name": "sonarqube",
+    "zh-cn": "SonarQube 是一款代码质量的检查开源的平台。"
+  },
+  {
+    "name": "jetty",
+    "zh-cn": "Jetty 提供 Web 服务器和 javax.servlet 的容器。"
+  },
+  {
+    "name": "couchbase",
+    "zh-cn": "Couchbase 服务器是一个分布式NoSQL文档数据库。"
+  },
+  {
+    "name": "drupal",
+    "zh-cn": "Drupal 是一个开源内容管理平台，为数以百万计的网站和应用程序提供了强力的支持。"
+  },
+  {
+    "name": "mono",
+    "zh-cn": "Mono 是开源的微软 .NET Framework 实现。"
+  },
+  {
+    "name": "joomla",
+    "zh-cn": "Joomla! 是一个开源的内容管理系统。"
+  },
+  {
+    "name": "redmine",
+    "zh-cn": "Redmine是一个基于 Ruby on Rails 框架开发的灵活的项目管理系统。"
+  },
+  {
+    "name": "percona",
+    "zh-cn": "Percona Server 是由 Percona 创建的基于 MySQL 的关系型数据库管理系统。"
+  },
+  {
+    "name": "traefik",
+    "zh-cn": "Træfɪk，一个现代化的反向代理"
+  },
+  {
+    "name": "crate",
+    "zh-cn": "Crate 是一个开源的，高度可扩展，无共享的分布式SQL数据库。"
+  },
+  {
+    "name": "gcc",
+    "zh-cn": "GNU 编译器集是支持多种语言的编译系统。"
+  },
+  {
+    "name": "websphere-liberty",
+    "zh-cn": "IBM 官方 WebSphere 应用服务器开发者镜像。"
+  },
+  {
+    "name": "arangodb",
+    "zh-cn": "ArangoDB - 拥有文档、图形、键值对数据模型的灵活的分布式数据库。"
+  },
+  {
+    "name": "glassfish",
+    "zh-cn": "GlassFish 是 Java EE 的参考实现"
+  },
+  {
+    "name": "neurodebian",
+    "zh-cn": "NeuroDebian 为 Debian、 Ubuntu 及其它衍生工具提供神经科学研究软件。"
+  },
+  {
+    "name": "solr",
+    "zh-cn": "Solr 是内置于 Apache Lucene的™ 的高速开源的企业级搜索平台。"
+  },
+  {
+    "name": "tomee",
+    "zh-cn": "Apache TomEE 是一个全功能的 Apache 的 Java EE 认证的堆栈，其中 Apache Tomcat 是主要组成部分。"
+  },
+  {
+    "name": "erlang",
+    "zh-cn": "Erlang 是用于构建具有高可用性的大规模可扩展系统的编程语言。"
+  },
+  {
+    "name": "docker-dev",
+    "zh-cn": "Docker 是一个开源的项目包，用于启动运行任何应用的轻量级容器。"
+  },
+  {
+    "name": "aerospike",
+    "zh-cn": "Aerospike – 用于优化闪存和 RAM 的高可靠性，高性能，分布式数据库。"
+  },
+  {
+    "name": "hylang",
+    "zh-cn": "HY 是一种 Lisp 方言翻译成表达 Python 的抽象语法树。"
+  },
+  {
+    "name": "irssi",
+    "zh-cn": "irssi - 未来的 IRC 客户端"
+  },
+  {
+    "name": "opensuse",
+    "zh-cn": "这个项目包含了openSUSE发行版的稳定版本。"
+  },
+  {
+    "name": "clojure",
+    "zh-cn": "Clojure 是在 JVM 上运行的 Lisp 方言。"
+  },
+  {
+    "name": "scratch",
+    "zh-cn": "完全空的镜像，特别用于用于构建新镜像。"
+  },
+  {
+    "name": "ros",
+    "zh-cn": "机器人操作系统（ROS）是一种用于构建机器人应用的一个开源项目。"
+  },
+  {
+    "name": "celery",
+    "zh-cn": "Celery 是一个开源的基于分布式消息传递的异步任务 / 作业队列。"
+  },
+  {
+    "name": "ubuntu-upstart",
+    "zh-cn": "Upstart 是一个基于事件的，用于代替老的 /sbin/init 引导时启动的进程。"
+  },
+  {
+    "name": "haskell",
+    "zh-cn": "Haskell 是一种先进的函数式编程语言。"
+  },
+  {
+    "name": "php-zendserver",
+    "zh-cn": "Zend Server - 集成的 PHP 移动端 Web 应用程序平台。"
+  },
+  {
+    "name": "cirros",
+    "zh-cn": "CirrOS 是一个容量很小的在云端运行的操作系统。"
+  },
+  {
+    "name": "julia",
+    "zh-cn": "Julia 一种高性能的动态编程高级语言。"
+  },
+  {
+    "name": "influxdb",
+    "zh-cn": "InfluxDB 是一个开源的时间序列数据库，用来记录指标、事件和分析。"
+  },
+  {
+    "name": "r-base",
+    "zh-cn": "R 是用于统计计算和图形的系统。"
+  },
+  {
+    "name": "gazebo",
+    "zh-cn": "Gazebo 是一个开源的模拟机器人，并提供强大的物理效果和渲染的项目。"
+  },
+  {
+    "name": "mongo-express",
+    "zh-cn": "使用 Node.js + express 开发，基于 Web 的 MongoDB 管理界面。"
+  },
+  {
+    "name": "nuxeo",
+    "zh-cn": "Nuxeo 是一个完全定制化的开源的内容管理平台。"
+  },
+  {
+    "name": "couchdb",
+    "zh-cn": "CouchDB 一个使用 JSON 做文档、JavaScript 做 MapReduce，HTTP 做 API 的数据库。"
+  },
+  {
+    "name": "rakudo-star",
+    "zh-cn": "Rakudo Perl 6 或单纯的 Rakudo 是一个 Perl 6 的编译器。"
+  },
+  {
+    "name": "elixir",
+    "zh-cn": "Elixir 是构建可扩展性和维护的应用程序的动态的函数式语言。"
+  },
+  {
+    "name": "hipache",
+    "zh-cn": "Hipache 是大流量的 http / websocket 代理。"
+  },
+  {
+    "name": "thrift",
+    "zh-cn": "Thrift 是从 IDL 生成客户端和服务的框架。"
+  },
+  {
+    "name": "backdrop",
+    "zh-cn": "适合中小型企业的免费内容管理系统。"
+  },
+  {
+    "name": "mageia",
+    "zh-cn": "官方 Mageia 基础镜像"
+  },
+  {
+    "name": "bonita",
+    "zh-cn": "Bonita BPM 是开源的务流程管理和工作流套件"
+  },
+  {
+    "name": "crux",
+    "zh-cn": "CRUX 是一个轻量级的 Linux 发行版，定位于经验的 Linux 用户。"
+  },
+  {
+    "name": "orientdb",
+    "zh-cn": "OrientDB 是一个多模型开源 NoSQL数据库，结合了图标和文档。"
+  },
+  {
+    "name": "vault",
+    "zh-cn": "Vault 是一个通过统一的接口和严格的访问控制进行安全地访问的工具。"
+  },
+  {
+    "name": "kapacitor",
+    "zh-cn": "Kapacitor 是基于时间序列处理、监控和报警的开源框架。"
+  },
+  {
+    "name": "piwik",
+    "zh-cn": "是领先的开放源码分析平台，为您提供了更强大的分析。"
+  },
+  {
+    "name": "openjdk",
+    "zh-cn": "OpenJDK 是 Java 平台标准版的开源实现"
+  },
+  {
+    "name": "photon",
+    "zh-cn": "Photon OS 是一个笑容量的 Linux 容器主机的技术预览。"
+  },
+  {
+    "name": "kaazing-gateway",
+    "zh-cn": "Kaazing Gateway 官方版本。"
+  },
+  {
+    "name": "lightstreamer",
+    "zh-cn": "Lightstreamer 是互联网优化的实时消息服务器。"
+  },
+  {
+    "name": "chronograf",
+    "zh-cn": "Chronograf 是用于 InfluxDB 时间序列数据的可视化工具。"
+  },
+  {
+    "name": "sourcemage",
+    "zh-cn": "Source Mage 是一个高度灵活的 GNU / Linux 发行版源码。"
+  },
+  {
+    "name": "spiped",
+    "zh-cn": "Spiped 是 socket 之间创建对称加密和认证管道的工具。"
+  },
+  {
+    "name": "ibmjava",
+    "zh-cn": "官方的 IBM® SDK, Java™ 技术版 Docker 镜像."
+  },
+  {
+    "name": "eggdrop",
+    "zh-cn": "Eggdrop- IRC中最古老的活跃的机器人开发官方 Docker 镜像！"
+  },
+  {
+    "name": "fsharp",
+    "zh-cn": "F# 是一种多范式的拥有面向对象风格的函数式语言。"
+  },
+  {
+    "name": "clearlinux",
+    "zh-cn": "官方 Clear Linux OS for Intel Architecture 的 docker 镜像"
+  },
+  {
+    "name": "hello-seattle",
+    "zh-cn": "来自2016年西雅图 Docker 会议的问候！"
+  },
+  {
+    "name": "hola-mundo",
+    "zh-cn": "来自2015年巴塞罗那 Docker 欧洲会议的问候！"
+  },
+  {
+    "name": "kong",
+    "zh-cn": "建立在 NGINX 上的开源微服务和 API 管理层。"
+  }
+]
