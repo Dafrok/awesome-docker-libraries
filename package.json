@@ -1,0 +1,23 @@
+{
+  "name": "awesome-docker-libraries-cn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "spider": "node ./tools/spider.js",
+    "doc": "node ./tools/make-doc.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dafrok/awesome-docker-libraries-cn.git"
+  },
+  "author": "Dafrok <o.o@mug.dog>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dafrok/awesome-docker-libraries-cn/issues"
+  },
+  "homepage": "https://github.com/Dafrok/awesome-docker-libraries-cn#readme",
+  "dependencies": {
+    "crawler": "^0.4.3"
+  }
+}
