@@ -101,7 +101,6 @@
   },
   {
     "name": "haproxy",
-    "link": "/_/haproxy/",
     "zh-cn": "HAProxy的 - 可靠的，高性能的 TCP / HTTP 负载平衡器。"
   },
   {
@@ -174,7 +173,6 @@
   },
   {
     "name": "iojs",
-    "link": "/_/iojs/",
     "zh-cn": "io.js 是出身于 node.js 的一个 NPM 兼容的平台"
   },
   {
@@ -183,7 +181,6 @@
   },
   {
     "name": "django",
-    "link": "/_/django/",
     "zh-cn": "Django 是一款基于 Python 的免费的 web 应用框架。"
   },
   {
